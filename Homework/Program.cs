@@ -152,7 +152,7 @@ namespace Homework
         #endregion
 
         #region Пятое задание
-        static void Work5()
+        static void Work5() // Задание 5: программа для запроса и вывода данных по центру экрана
         {
             
             Console.Clear();
