@@ -1,0 +1,8 @@
+F:\Учеба Unity\Homework\bin\Debug\Homework.exe.config
+F:\Учеба Unity\Homework\bin\Debug\Homework.exe
+F:\Учеба Unity\Homework\bin\Debug\Homework.pdb
+F:\Учеба Unity\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+F:\Учеба Unity\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+F:\Учеба Unity\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+F:\Учеба Unity\Homework\obj\Debug\Homework.exe
+F:\Учеба Unity\Homework\obj\Debug\Homework.pdb
